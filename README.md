@@ -1,0 +1,2 @@
+# COBOL_Interpreter
+This simple Java code lets you create a symbol table for COBOL and interpret if an expression is well formulated. With the Simbolo class you can define a name, value an id for a given symbol and then pass it to a symbol table, where is defined a short set of reserved words in COBOL, then in the main class this classes are used to implement a simple interpreter of this language. This are the firsts steps in the construction of a compiler.  
